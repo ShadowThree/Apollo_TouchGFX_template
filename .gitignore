@@ -1,0 +1,5 @@
+MDK-ARM/APOLLO_TouchGFX_Template/*
+MDK-ARM/JLinkLog.txt
+MDK-ARM/JLinkSettings.ini
+MDK-ARM/*.uvguix.*
+Middlewares/*
